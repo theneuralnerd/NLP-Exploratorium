@@ -1,0 +1,4 @@
+*.csv
+/model_weights
+*.DS_Store
+__pycache__/
